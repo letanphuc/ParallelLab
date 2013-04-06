@@ -1,0 +1,5 @@
+With N = 1000
+Sequence program :  0.003616 sencod
+Parallel program :
+	number pro = 9:	0.020812 second
+	number pro = 2: 0.028311 second
